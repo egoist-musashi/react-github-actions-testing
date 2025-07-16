@@ -16,7 +16,7 @@ const App: React.FC = () => {
   return (
       <div className="App">
         <header className="App-header">
-          <h1> Welcome to the react app - loaded at {currentTime}</h1>
+          <h1> Welcome to the react apps - loaded at {currentTime}</h1>
           <p> This is a test react app deployed via github actions</p>
         </header>
       </div>
